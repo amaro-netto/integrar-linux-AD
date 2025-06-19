@@ -1,9 +1,5 @@
 # 🖥️ Autenticação Linux com Active Directory
 
-## 🎯 OBJETIVO
-
-Fazer com que um computador Linux (Debian/Ubuntu) aceite login de usuários do Active Directory, como se fossem usuários locais.
-
 ### Pré-requisitos
 
 - Ter o nome do domínio AD (ex: `empresa.local`)
