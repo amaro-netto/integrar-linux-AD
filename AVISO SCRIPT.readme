@@ -1,0 +1,9 @@
+* ⚠️ Antes de rodar:
+
+Você precisa saber:
+
+O nome do domínio (ex: empresa.local)
+
+O usuário administrador do AD (ex: Administrador)
+
+O IP do servidor AD (para sincronizar o horário)
